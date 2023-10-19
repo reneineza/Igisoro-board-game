@@ -15,3 +15,6 @@ Pygame
 # Getting Started
 To get started with Igisoro Game with Pygame, simply clone the repository to your local machine and run the igisoro.py file using Python. You can customize the game settings by editing the config.py file. If you're interested in contributing to the project, check out our GitHub repository and submit a pull request.
 We hope you enjoy playing the Igisoro Game with Pygame and improving your skills in playing this fascinating game!
+
+
+![download](https://github.com/reneineza/Igisoro-board-game/assets/135042296/6720ac76-bdfa-4d0e-a139-d5c581f99c99)
